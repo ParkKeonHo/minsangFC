@@ -1,0 +1,6 @@
+The directory `/spring-boot-mvc-jsp/spring-boot-mvc-jsp/src/main/resources/static` is intended for static resources like CSS, JavaScript, and images. Since you want to display "Hello" on the main screen using JSP, the content should be in the `index.jsp` file instead. Therefore, the `static` directory can be left intentionally blank.
+
+Here are the contents for the file:
+
+/spring-boot-mvc-jsp/spring-boot-mvc-jsp/src/main/resources/static
+<!-- This file is intentionally left blank. -->
